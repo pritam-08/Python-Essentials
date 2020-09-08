@@ -1,2 +1,2 @@
 # Python-Essentials
-Assignment Submission of LetsUpgrade
+Assignment Submission for LetsUpgrade
